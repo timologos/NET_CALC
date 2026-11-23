@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.networth",
+  "appName": "Net Worth",
+  "webDir": "www",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
